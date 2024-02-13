@@ -1,2 +1,5 @@
-# Responsive-Web-Design
-The code used for the freeCodeCamp Responsive Web Design Certification
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/FreeCodeCamp_logo.png/320px-FreeCodeCamp_logo.png)
+
+# Responsive Web Design
+- The code used as part of the [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/) Curriculum.
+- Includes 5 learning-by-doing unguided Certification Projects.
