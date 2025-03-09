@@ -4,8 +4,6 @@
 
 # Responsive Web Design
 
-This repository contains the responsive web design projects that I created as part of the [freeCodeCamp Responsive Web Design certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/)). These projects showcase my skills in creating websites that adapt to different screen sizes using HTML and CSS.
-
 This repository features a collection of responsive web design projects I developed as part of the [freeCodeCamp Responsive Web Design certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/)). These projects demonstrate my ability to build websites that seamlessly adapt to various screen sizes using HTML and CSS, ensuring an optimal user experience across different devices.
 
 You can explore the live versions of these projects here: [Pages](https://dsaikiran01.github.io/Responsive-Web-Design/).
